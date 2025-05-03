@@ -4,6 +4,7 @@
     "description": "HELL PINE!!! A modified version of rose-pine",
     "publiser": "ABX",
     "version": "0.0.1",
+    "repository": "https://github.com/AbiXnash/hell-pine.git",
     "engines": {
         "vscode": "^1.99.0"
     },
