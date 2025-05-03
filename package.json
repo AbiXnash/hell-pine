@@ -1,0 +1,21 @@
+{
+    "name": "hell-pine",
+    "displayName": "hell pine",
+    "description": "HELL PINE!!! A modified version of rose-pine",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.99.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hell Pine",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hell-pine-color-theme.json"
+            }
+        ]
+    }
+}
