@@ -1,9 +1,11 @@
 {
+    "icon": "./assets/icon/hell-pine.png",
     "name": "hell-pine",
     "displayName": "hell pine",
     "description": "HELL PINE!!! A modified version of rose-pine",
     "publisher": "ABX",
     "version": "0.0.1",
+    "license": "MIT",
     "repository": "https://github.com/AbiXnash/hell-pine.git",
     "engines": {
         "vscode": "^1.99.0"
@@ -11,6 +13,17 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "minimal",
+        "aesthetic",
+        "pastel",
+        "classy",
+        "soft"
+    ],
+    "galleryBanner": {
+        "color": "#191724",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
