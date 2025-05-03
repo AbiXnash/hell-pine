@@ -2,6 +2,7 @@
     "name": "hell-pine",
     "displayName": "hell pine",
     "description": "HELL PINE!!! A modified version of rose-pine",
+    "publiser": "ABX",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.99.0"
