@@ -17,6 +17,15 @@ While working with Rosé Pine inside `tmux`, I discovered unexpected but aesthet
 
 ---
 
+
+## Preview
+![Rust Snippet](./assets/preview/rust.png)
+![Zig Snippet](./assets/preview/zig.png)
+![JS Snippet](./assets/preview/js.png)
+![Java Snippet](./assets/preview/java.png)
+
+---
+
 ## 🎨 Features
 
 - 🖤 **Dark elegance** with enhanced contrast and visual edge  
