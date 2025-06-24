@@ -19,11 +19,26 @@ While working with Rosé Pine inside `tmux`, I discovered unexpected but aesthet
 
 
 ## Preview
-![Rust Snippet](./assets/preview/rust.png)
-![Zig Snippet](./assets/preview/zig.png)
-![JS Snippet](./assets/preview/js.png)
-![Java Snippet](./assets/preview/java.png)
 
+<div style="display: flex; overflow-x: auto; gap: 1rem; padding-bottom: 0.5rem;">
+  <img src="./assets/preview/rust.png" alt="Rust Snippet" style="height: 180px;" />
+  <img src="./assets/preview/zig.png" alt="Zig Snippet" style="height: 180px;" />
+  <img src="./assets/preview/js.png" alt="JS Snippet" style="height: 180px;" />
+  <img src="./assets/preview/java.png" alt="Java Snippet" style="height: 180px;" />
+</div>
+
+---
+
+## 💻 Developer Setup
+
+To enhance the look and feel of your editor or code previews, it's **recommended** to add the following to your VS Code `settings.json`:
+
+```json
+{
+    "editor.fontWeight": "600"
+}
+
+```
 ---
 
 ## 🎨 Features
